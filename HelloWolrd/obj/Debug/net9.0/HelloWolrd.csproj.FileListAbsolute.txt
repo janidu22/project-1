@@ -1,0 +1,15 @@
+D:\github projects\project-1\HelloWolrd\obj\Debug\net9.0\HelloWolrd.GeneratedMSBuildEditorConfig.editorconfig
+D:\github projects\project-1\HelloWolrd\obj\Debug\net9.0\HelloWolrd.AssemblyInfoInputs.cache
+D:\github projects\project-1\HelloWolrd\obj\Debug\net9.0\HelloWolrd.AssemblyInfo.cs
+D:\github projects\project-1\HelloWolrd\obj\Debug\net9.0\HelloWolrd.csproj.CoreCompileInputs.cache
+D:\github projects\project-1\HelloWolrd\obj\Debug\net9.0\HelloWolrd.sourcelink.json
+D:\github projects\project-1\HelloWolrd\bin\Debug\net9.0\HelloWolrd.exe
+D:\github projects\project-1\HelloWolrd\bin\Debug\net9.0\HelloWolrd.deps.json
+D:\github projects\project-1\HelloWolrd\bin\Debug\net9.0\HelloWolrd.runtimeconfig.json
+D:\github projects\project-1\HelloWolrd\bin\Debug\net9.0\HelloWolrd.dll
+D:\github projects\project-1\HelloWolrd\bin\Debug\net9.0\HelloWolrd.pdb
+D:\github projects\project-1\HelloWolrd\obj\Debug\net9.0\HelloWolrd.dll
+D:\github projects\project-1\HelloWolrd\obj\Debug\net9.0\refint\HelloWolrd.dll
+D:\github projects\project-1\HelloWolrd\obj\Debug\net9.0\HelloWolrd.pdb
+D:\github projects\project-1\HelloWolrd\obj\Debug\net9.0\HelloWolrd.genruntimeconfig.cache
+D:\github projects\project-1\HelloWolrd\obj\Debug\net9.0\ref\HelloWolrd.dll
